@@ -1,2 +1,2 @@
-My first alteration at gitbub.
+My first alteration at github.
 
